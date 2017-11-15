@@ -1,0 +1,37 @@
+=========================================
+The follow resources are unused
+=========================================
+== Characters == 
+
+== Faces == 
+
+== Battlers == 
+
+== Animations == 
+
+== Tilesets == 
+
+== Parallaxes == 
+Graphics/Parallaxes/trezst
+
+== BGM == 
+
+== ME == 
+
+== SE == 
+
+== Battlebacks1 == 
+
+== Battlebacks2 == 
+
+== Titles1 == 
+
+== Titles2 == 
+
+== System == 
+Graphics/System/windowSkin
+
+== BGS == 
+
+== Pictures == 
+
